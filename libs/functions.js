@@ -1,0 +1,1 @@
+const { genPassword, validPassword } = require('./password');
